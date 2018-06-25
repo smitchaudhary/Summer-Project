@@ -2,7 +2,7 @@
 #include "xparameters.h" //Contains base addresses of peripherals. Available here : https://github.com/Xilinx/embeddedsw/blob/master/lib/sw_apps/zynq_fsbl/misc/zed/xparameters.h
 #include "stdio.h"
 #include "xtime_l.h" //To note time
-#include "myGYRO.h" //Library created of other useful functions. Available at : 
+#include "myGYRO.h" //Library created of other useful functions. Available at : https://github.com/smitchaudhary/Summer-Project/blob/master/myGYRO.h
 
 int main(){
 	//Initialize the PmodGYRO object
